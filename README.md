@@ -16,11 +16,11 @@ Sharing content on social apps is one of the necessities of today's web applicat
 
 
 
-![Alt text](https://github.com/knoldus/angular-facebook-twitter.git/assets/icons8-facebook.svg)
-<img src="https://github.com/knoldus/angular-facebook-twitter.git/assets/icons8-facebook.svg">
+![Alt text](/assets/icons8-facebook.svg)
+<img src="/assets/icons8-facebook.svg">
 
 
-![Alt text](https://github.com/knoldus/angular-facebook-twitter.git/assets/icons8-twitter.svg)
-<img src="https://github.com/knoldus/angular-facebook-twitter.git/assets/icons8-twitter.svg">
+![Alt text](/assets/icons8-twitter.svg)
+<img src="/assets/icons8-twitter.svg">
 
 
