@@ -16,11 +16,8 @@ Sharing content on social apps is one of the necessities of today's web applicat
 
 
 
-![Alt text](/assets/icons8-facebook.svg)
-<img src="/assets/icons8-facebook.svg">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/240px-Facebook_f_logo_%282019%29.svg.png" width="50px"> <img src="https://icons-for-free.com/iconfiles/png/512/social+tweet+twitter+icon-1320192248146512175.png" width="50px">
 
 
-![Alt text](/assets/icons8-twitter.svg)
-<img src="/assets/icons8-twitter.svg">
 
 
